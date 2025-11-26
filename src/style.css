@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Sora:wght@100..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FFDC26; 
+  --color-background:#F9DF8A;
+  
+  --font-sora: "Sora", sans-serif; 
+  --font-adlam: "ADLaM Display", sans-serif; 
+  
+}
